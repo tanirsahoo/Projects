@@ -1,0 +1,548 @@
+* {
+    padding: 0;
+    margin: 0;
+    transition: 0.5s linear;
+}
+
+.navigation_bar_1 {
+    height: 8rem;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+
+.navigation_bar_2 {
+    display: flex;
+    flex-wrap: wrap;
+    height: inherit;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.674);
+}
+
+.navigation_bar_image_1 {
+    height: 8rem;
+    width: auto;
+}
+
+.navigation_bar_unordered_list_1 {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navigation_bar_lists_attribute {
+    color: white;
+    text-decoration: none;
+    margin: 0rem 2rem;
+    cursor: pointer;
+    transition: 0.01ms linear;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.navigation_bar_lists_attribute:hover {
+    color: rgb(178, 178, 180);
+}
+
+.navigation_bar_4 {
+    position: absolute;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wallpaper_section_1{
+    background-image: url('Wallpaper2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.wallpaper_section_2{
+    z-index: 20;
+    position: relative;
+    height: inherit;
+    width: inherit;
+    display: flex;
+    align-items: center;
+}
+.wallpaper_section_3{
+    margin: 0rem 0rem 0rem 4rem ;
+}
+.wallpaper_section_4{
+    color: white;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+    letter-spacing: 0.5rem;
+    font-size: 5rem;
+}
+.wallpaper_section_5{
+    color: white;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+    letter-spacing: 2rem;
+    font-size: 3 ;
+}
+.wallpaper_section_6{
+    color: white;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    padding: 2rem 0rem 0rem 0rem;
+    letter-spacing: 0.2rem;
+    font-size: 1.2rem ;
+}
+.wallpaper_section_2_background_darkener{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #0000007a;
+    z-index: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.design_pamphlet_work_1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.design_pamphlet_work_3_items{
+    height: 25rem;
+    width: 20rem;
+    background-color: rgb(255, 255, 255);
+    margin: 1rem 1rem 1rem 1rem;
+}
+.design_pamphlet_work_2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.design_pamphlet_work_3_items_image{
+    max-height: 10rem;
+    max-width: 20rem;
+    overflow: hidden;
+}
+.design_pamphlet_work_3_items_image img{
+    width: 20rem ;
+    height: auto;
+}
+.design_pamphlet_work_3_items_heading{
+    margin: 1.5rem 0rem 1rem 0rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.design_pamphlet_work_3_items_paragraph{
+    margin: 1rem 0rem 2rem 0rem;
+    color: rgb(129, 128, 128);
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.design_pamphlet_work_3_items_attribite{
+    text-decoration: none;
+    margin: 2rem 0rem 0rem 0rem;
+    color: rgb(70, 100, 251);
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.our_vision_panel_landing_page_1{
+    background-image: url('im1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 20rem;
+    width: 100%;
+    position: relative;
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.our_vision_panel_landing_page_2{
+    position: relative;
+    z-index: 30;
+}
+.our_vision_panel_landing_page_1_darkener{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.45);
+    z-index: 25;
+    height: 20rem;
+    width: 100%;
+}
+.our_vision_panel_landing_page_3{
+    color: white;
+    font-size: 2.5rem;
+    letter-spacing: 1.1rem;
+    margin: 0rem 0rem 2rem 0rem;
+}
+.our_vision_panel_landing_page_3_attribute{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding: 1rem 2rem;
+    background-color: black;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    transition: 0.1s linear;
+    letter-spacing: 0.2rem;
+}
+.our_vision_panel_landing_page_3_attribute:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer_section_landing_page_2{
+    background-color: rgb(23, 23, 23);
+    height: 20rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    justify-content: center;
+}
+.footer_section_landing_page_3{
+    background-color: black;
+    padding: 0.5rem 0rem;
+}
+.footer_section_landing_page_3_para{
+    color: white;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+.footer_section_landing_page_3_lists_1_inside_1{
+    width: 20rem;
+    height: auto;
+}
+.footer_section_landing_page_3_lists_1_inside_1_heading{
+    color: white;
+    margin: 1rem 0rem 1.5rem 0rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.footer_section_landing_page_3_lists_1_inside_1_paragraph{
+    color: white;
+    margin: 0rem 0rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.footer_section_landing_page_3_lists_3_inside_1 img{
+    width: 15rem;
+    height: auto;
+}
+.footer_section_landing_page_3_lists_3_inside_1_paragraph{
+    color: white;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 0.2rem;
+}
+.footer_section_landing_page_3_lists_2_inside_1_heading{
+    color: white;
+    margin: 1rem 0rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.footer_section_landing_page_3_lists_2_inside_3_attribute{
+    color: white;
+    text-decoration: none; 
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
+    transition: 0.1s linear;
+}
+.footer_section_landing_page_3_lists_2_inside_3_attribute:hover{
+    color: rgb(106, 104, 104);
+}
+.footer_section_landing_page_3_lists_2_inside_3_lists{
+    list-style-type: none;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    margin: 1rem 0rem;
+}
+.footer_section_landing_page_3_items{
+    margin: 0rem 2rem;
+    width: 20rem;
+    height: auto;
+}
